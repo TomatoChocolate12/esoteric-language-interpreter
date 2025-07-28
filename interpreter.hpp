@@ -4,6 +4,7 @@
 #include "parser.hpp"
 #include <span>
 #include <vector>
+#include <string_view>
 #include <iostream>
 
 class Interpreter {

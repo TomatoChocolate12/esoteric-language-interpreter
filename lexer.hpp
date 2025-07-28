@@ -4,6 +4,8 @@
 #include "tokens.hpp"
 #include "interpreter.hpp"
 
+#include <unordered_map>
+
 
 class Lexer {
 private:
