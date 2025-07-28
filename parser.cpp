@@ -2,6 +2,10 @@
 #include "parser.hpp"
 #include "interpreter.hpp"
 
+#include <vector>
+#include <stack>
+#include <span>
+
 using namespace std;
 
 class Parser {

@@ -1,7 +1,6 @@
 #ifndef INSTRUCTIONS_HPP
 #define INSTRUCTIONS_HPP
 
-#include "main.hpp"
 
 enum class InstructionType {
     MOVE_RIGHT,

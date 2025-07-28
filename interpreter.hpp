@@ -1,8 +1,10 @@
 #ifndef INTERPRETER_HPP
 #define INTERPRETER_HPP
 
-#include "main.hpp"
 #include "parser.hpp"
+#include <span>
+#include <vector>
+#include <iostream>
 
 class Interpreter {
 private:

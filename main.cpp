@@ -1,8 +1,11 @@
-#include "main.hpp"
 #include "tokens.hpp"
 #include "parser.hpp"
 #include "interpreter.hpp"
 #include "lexer.hpp"
+
+#include <iostream>
+#include <string>
+#include <string_view>
 
 using namespace std;
 
